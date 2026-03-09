@@ -1,0 +1,198 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AI Hub Application Resume
+% LaTeX Template for Piter Garcia
+% Tailored for RIT AI Hub Internship
+% Updated March 2026
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[10pt]{article}
+\usepackage[letterpaper,margin=0.38in]{geometry}
+\usepackage{fontawesome5}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+
+% Color definitions
+\definecolor{accent}{RGB}{0,100,200}
+\definecolor{darkgray}{RGB}{64,64,64}
+
+% Section formatting
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
+
+% Header setup
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+
+% List spacing
+\setlist[itemize]{itemsep=1.5pt, topsep=2pt}
+
+% Custom commands
+\newcommand{\resumeItem}[1]{\item\small{#1}}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{4pt}
+  \noindent
+  \begin{tabular*}{\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
+    \textbf{#1} & #2 \\
+    \textit{\small #3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-4pt}
+}
+
+\begin{document}
+
+%-------------------------------------------
+% HEADER
+%-------------------------------------------
+
+\begin{center}
+    {\Huge \textbf{Piter Z. Garcia Bautista}} \\
+    \vspace{4pt}
+    {\Large Applied AI / Data Science Researcher | Python, ML, Cloud Pipelines} \\
+    \vspace{4pt}
+    \faMapMarker* \, Rochester, NY \quad
+    \faPhone \, +1 (646) 288-3300 \quad
+    \faEnvelope \, \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu} \\
+    \faLinkedin \, \href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz} \quad
+    \faGithub \, \href{https://github.com/pzg8794}{github.com/pzg8794} \quad
+    \faGlobe \, \href{https://garciapiterz.com}{garciapiterz.com}
+\end{center}
+
+%-------------------------------------------
+% SUMMARY
+%-------------------------------------------
+
+\section{Summary}
+\vspace{-4pt}
+Applied AI and data science graduate student at RIT with industry and research experience in \textbf{Python, machine learning, cloud data pipelines, and reproducible experimentation}. Hands-on background in \textbf{data cleaning, exploratory data analysis, supervised learning, benchmarking, evaluation, and technical reporting} using tools such as \textbf{pandas} and \textbf{scikit-learn}. Built production-oriented workflows primarily on \textbf{AWS} in industry and rerunnable research pipelines on \textbf{GCP} in academic environments. Preparing for doctoral study at RIT and available \textbf{full-time immediately}, with strong interest in continuing through Fall 2026 and beyond.
+
+%-------------------------------------------
+% TECHNICAL SKILLS
+%-------------------------------------------
+
+\section{Technical Skills}
+
+\textbf{Programming:} Python, R, Java, C++, C\#, SQL, MATLAB, JavaScript, Bash \\
+\textbf{Applied AI / ML:} scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, supervised learning, feature engineering, model evaluation, fairness-aware ML \\
+\textbf{Data Science:} pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn, data cleaning, EDA, statistical analysis, benchmarking \\
+\textbf{Cloud / Reproducibility:} AWS (\textit{primary industry cloud}), GCP (\textit{research workflows}), Docker, Git/GitHub, Linux/Unix \\
+\textbf{Computational Research:} bioinformatics pipelines, RNA structure modeling, reproducible experiments, technical reporting
+
+%-------------------------------------------
+% RELEVANT EXPERIENCE
+%-------------------------------------------
+
+\section{Relevant Experience}
+
+\resumeSubheading
+{Graduate Assistant -- Quantum \& AI Research}{Fall 2025 -- Present}
+{Software Engineering Department, Rochester Institute of Technology}{Rochester, NY}
+\begin{itemize}[leftmargin=1.2em]
+\resumeItem{Build and maintain a Python-based experimental framework for \textbf{machine learning, neural, bandit, and quantum-routing research}, supporting evaluation across stochastic and adversarial environments.}
+\resumeItem{Develop rerunnable workflows across \textbf{Colab, local, and GCP} environments with automated validation, structured logging, shared datasets, and reproducible experiment tracking.}
+\resumeItem{Evaluate AI-driven routing methods through large-scale experiments, generating benchmark analyses, technical reports, and publication-oriented research artifacts.}
+\end{itemize}
+
+\resumeSubheading
+{Computer Science Educator / Teaching Practitioner}{2025 -- Present}
+{Computer Science Teaching \& Field Placement Work}{Rochester, NY}
+\begin{itemize}[leftmargin=1.2em]
+\resumeItem{Design and deliver computer science instruction in classroom settings, strengthening technical communication, documentation, and collaboration across diverse learning environments.}
+\resumeItem{Develop activities around computational thinking, digital tools, and responsible AI concepts, reinforcing long-term commitment to the Rochester academic and technology community.}
+\resumeItem{Translate complex technical ideas into clear, usable workflows for students and collaborators, supporting both research communication and applied problem solving.}
+\end{itemize}
+
+\resumeSubheading
+{Research Lead -- EQUITAS / Equitable Bioinformatics Initiative}{2024 -- Present}
+{Independent Research Initiative, RIT \& University of Rochester}{Rochester, NY}
+\begin{itemize}[leftmargin=1.2em]
+\resumeItem{Lead an interdisciplinary applied-AI research initiative connecting \textbf{bioinformatics, fairness-aware machine learning, and diagnostic equity}.}
+\resumeItem{Built Python workflows for \textbf{data cleaning, EDA, algorithm evaluation, bias detection, and reproducible reporting} across biomedical and education-related datasets.}
+\resumeItem{Designed modular research code and evaluation procedures for RNA structure modeling, biomarker analysis, and cross-group performance assessment.}
+\end{itemize}
+
+\resumeSubheading
+{Data Solutions Engineer}{Sep 2022 -- Aug 2024}
+{VEDADATA Inc.}{New York, NY}
+\begin{itemize}[leftmargin=1.2em]
+\resumeItem{Designed and implemented \textbf{Python-based data pipelines} and analytics workflows for business applications, emphasizing large-scale ingestion, cleaning, preprocessing, and validation.}
+\resumeItem{Built maintainable cloud workflows primarily on \textbf{AWS}, supporting reproducible data movement, transformation, and downstream analytics readiness.}
+\resumeItem{Applied data quality checks, statistical analysis, and documentation practices to improve traceability, reliability, and usability of production data systems.}
+\end{itemize}
+
+\resumeSubheading
+{AI Data Solutions Engineer}{Jan 2021 -- Sep 2022}
+{VIOME Inc.}{New York, NY}
+\begin{itemize}[leftmargin=1.2em]
+\resumeItem{Developed \textbf{applied AI and machine learning workflows} in Python for healthcare use cases, including preprocessing, feature engineering, model experimentation, and evaluation.}
+\resumeItem{Implemented supervised ML workflows using \textbf{scikit-learn} and related tools to support predictive and recommendation-oriented health applications.}
+\resumeItem{Worked extensively in \textbf{AWS}-based environments to support reproducible model development, deployment-oriented data preparation, and reliable evaluation pipelines.}
+\end{itemize}
+
+%-------------------------------------------
+% EDUCATION
+%-------------------------------------------
+
+\section{Education}
+
+\resumeSubheading
+{Master of Science in Data Science}{Expected Aug 2026}
+{Rochester Institute of Technology}{Rochester, NY}
+\begin{itemize}[leftmargin=1.2em]
+\resumeItem{Concentration: Bioinformatics \& Artificial Intelligence \hfill GPA: 3.9+}
+\resumeItem{Relevant Coursework: Foundations of Data Science, Software Engineering for Data Science, Applied Data Science, Bioinformatics Algorithms, Data-Driven Knowledge Discovery}
+\end{itemize}
+
+\resumeSubheading
+{Master of Science in Teaching Computer Science K--12}{Expected Aug 2026}
+{University of Rochester, Warner School of Education}{Rochester, NY}
+\begin{itemize}[leftmargin=1.2em]
+\resumeItem{NSF Robert Noyce Scholar \;|\; Advanced Certificate in Disability \& Inclusive Practices}
+\end{itemize}
+
+\resumeSubheading
+{Master of Science in Computer Science}{2015}
+{Rochester Institute of Technology}{Rochester, NY}
+\begin{itemize}[leftmargin=1.2em]
+\resumeItem{Concentrations: Artificial Intelligence, Big Data Analytics, Computer Graphics}
+\end{itemize}
+
+\resumeSubheading
+{Bachelor of Science in Computer Engineering}{2012}
+{Farmingdale State College}{Farmingdale, NY}
+\begin{itemize}[leftmargin=1.2em]
+\resumeItem{Dual Degree: Electrical Engineering \& Computer Engineering Technology}
+\end{itemize}
+
+%-------------------------------------------
+% RELEVANT AWARDS & RECOGNITION
+%-------------------------------------------
+
+\section{Relevant Awards \& Recognition}
+
+\begin{itemize}[leftmargin=*]
+\item \small{\textbf{NSF Robert Noyce Scholar} (2024--2026)}
+\item \small{\textbf{MS International Scholarship} (2012--2015) -- merit-based graduate funding through RIT and MESCYT}
+\item \small{\textbf{Honorable Mention Technology Award} (2012) -- NYS STEP/CSTEP capstone recognition}
+\item \small{\textbf{IEEE Alumni Member} (2009--Present)}
+\end{itemize}
+
+%-------------------------------------------
+% FACULTY RESEARCH ADVISERS / COLLABORATORS
+%-------------------------------------------
+
+\section{Faculty Research Advisers / Collaborators}
+
+\begin{itemize}[leftmargin=*]
+\item \small{\textbf{Dr. Travis Desell} -- RIT; graduate assistantship supervision in quantum/AI research, adaptive algorithms, and experimental systems}
+\item \small{\textbf{Dr. Qi Yu} -- RIT; guidance in human-centered AI, machine learning, and data-driven knowledge discovery}
+\item \small{\textbf{Dr. Fernando Rodriguez} -- RIT; bioinformatics and computational biology guidance for RNA structure modeling and evaluation}
+\item \small{\textbf{Dr. Feng Cui} -- RIT; mentorship aligned with computational biology and AI applications in medicine}
+\end{itemize}
+
+\vspace{8pt}
+\small{References, portfolio materials, code samples, and research papers are available upon request.}
+
+\end{document}
