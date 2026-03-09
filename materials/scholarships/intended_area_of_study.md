@@ -1,0 +1,17 @@
+**Please include your intended area of study, research interests, and what you are currently doing to prepare for graduate study (i.e., professional clubs, personal projects, and research, etc.).**
+
+My intended area of study is Artificial Intelligence (AI) and Data Mining (DM), with a specific focus on developing innovative tools to address public health challenges. My passion for leveraging technology to improve the quality of life stems from my personal experiences and academic journey, which have solidified my commitment to this field.
+
+Currently, I am pursuing another Master’s degree in Data Science to serve as a bridge to doctoral studies. Through this program, I am honing my skills in data analysis, algorithm design, and the integration of AI, Bioinformatics, and DM in solving complex problems. My academic foundation includes a Bachelor’s degree in Computing and Electrical Engineering from Farmingdale State College, where I discovered my affinity for programming and problem-solving. And, I further expanded my expertise with a Master’s degree in Computer Science from the Rochester Institute of Technology (RIT), where I delved into AI and DM research, including projects like BDMD[^1] and IKLA[^2], aimed at improving medical diagnosis and communication.
+
+Beyond academics, I have engaged in professional experiences that align with my research interests. At companies like Viome and VedaData, I contributed to building tools that address public health needs, inspired by my personal experience overcoming a chronic illness. Additionally, I volunteer with SAMASTA, where I assist in enhancing medical diagnosis tools for underserved children. These experiences have deepened my understanding of the intersection between technology and public health, motivating me to pursue advanced research in this area.  
+My research interests are centered on designing AI-driven approaches for acquiring, integrating, and utilizing data to improve population-level public health outcomes. I particularly want to research integrating diverse data sources to address public health challenges.
+
+To prepare for graduate study, I am actively involved in personal projects and professional development. I am building a strong foundation in data science through coursework and practical applications, which include developing algorithms and conducting analyses to solve real-world problems. I am also cultivating a robust network of mentors and collaborators through professional affiliations, and I participate in workshops and conferences to stay updated on advancements in AI and DM. Additionally, my long-term plan includes leveraging these experiences to establish an entity that utilizes AI and DM to tackle public health challenges, further amplifying the positive impact of my research.
+
+By combining my academic pursuits, professional experiences, and personal passion, I am well-prepared to contribute to and thrive in a rigorous Ph.D. program. I look forward to advancing my expertise and collaborating with like-minded researchers to create meaningful solutions that enhance the quality of life for many.  
+
+
+[^1]:  ***BDMD:** Big Data Medical Diagnosis*
+
+[^2]:  ***IKLA:** Integration of Kinect and Leap Motion for Applications in ASL Recognition*
