@@ -1,0 +1,174 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Piter Z. Garcia Bautista - Resume
+% RIT AI Hub | Applied AI/Data Science
+% March 2026 - FIXED VERSION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[10pt]{article}
+\usepackage[letterpaper,margin=0.5in]{geometry}
+\usepackage{fontawesome5}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+% Color definitions
+\definecolor{accent}{RGB}{0,100,200}
+\definecolor{darkgray}{RGB}{64,64,64}
+
+% Section Formatting
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{8pt}{4pt}
+
+% Custom commands
+\newcommand{\resumeItem}[1]{\item\small{#1}}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% HEADER
+%----------------------------------------------------------------------------------------
+
+\begin{center}
+  {\Huge \textbf{Piter Z. Garcia Bautista}} \\
+  \vspace{3pt}
+  {\large Graduate Student $|$ Applied AI, Data Science \& Equitable Computing} \\
+  \vspace{3pt}
+  \faMapMarker* \, Rochester, NY \quad
+  \faPhone \, (646) 288-3300 \quad
+  \faEnvelope \, \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu} \\
+  \vspace{2pt}
+  \faLinkedin \, \href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz} \quad
+  \faGithub \, \href{https://github.com/pzg8794}{github.com/pzg8794} \quad
+  \faGlobe \, \href{https://garciapiterz.com}{garciapiterz.com}
+\end{center}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL SUMMARY
+%----------------------------------------------------------------------------------------
+
+\section{Professional Summary}
+Applied AI researcher and graduate assistant with hands-on experience in quantum-AI research infrastructure, fairness-aware machine learning, and reproducible data science pipelines. Combines technical expertise in Python-based ML workflows with a research focus on equitable computing and diagnostic bias mitigation. Seeking AI Hub co-op/internship to support grant-funded projects in applied AI, data quality, and experimental evaluation. Available full-time summer 2026 with continuation into fall 2026 and potentially beyond.
+
+%----------------------------------------------------------------------------------------
+% TECHNICAL SKILLS
+%----------------------------------------------------------------------------------------
+
+\section{Technical Skills}
+
+\textbf{Python \& ML:} pandas, NumPy, scikit-learn, XGBoost, TensorFlow, PyTorch, SciPy, statsmodels \\
+\textbf{Data Science:} Data cleaning, EDA, feature engineering, supervised/unsupervised ML, model evaluation \\
+\textbf{Reproducibility:} Git/GitHub, Jupyter, experiment tracking, validation workflows, documentation \\
+\textbf{Statistics:} Hypothesis testing, regression analysis, ANOVA, distribution fitting, statistical modeling \\
+\textbf{Bioinformatics:} ViennaRNA, BLAST, sequence analysis, RNA structure prediction, biomarker analysis \\
+\textbf{Cloud \& Tools:} Google Colab, GCP, AWS (basic), Docker, Linux/Unix, SQL, R \\
+\textbf{AI Fairness:} Disparate impact analysis, equalized odds, adversarial debiasing, AI Fairness 360 \\
+\textbf{Visualization:} Matplotlib, Seaborn, Plotly, interactive dashboards, manuscript-ready figures
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\begin{itemize}[leftmargin=*,label={}]
+  \resumeSubheading
+    {Master of Science in Data Science}{Expected Aug 2026}
+    {Rochester Institute of Technology}{Rochester, NY}
+    \resumeItem{\textbf{GPA: 3.9+} $|$ Focus: Applied AI, Fairness-Aware ML, Bioinformatics}
+    \resumeItem{Coursework: Data Science Foundations, Software Engineering for Data Science, Bioinformatics Algorithms,}
+    \resumeItem{\hspace{10pt}Data-Driven Knowledge Discovery (ISTE-780), Neural Networks, Applied Statistics, High-Throughput Sequencing}
+
+  \vspace{4pt}
+  \resumeSubheading
+    {Master of Science in Computer Science}{2015}
+    {Rochester Institute of Technology}{Rochester, NY}
+    \resumeItem{Concentrations: Artificial Intelligence, Big Data Analytics, Computer Graphics}
+    \resumeItem{Research: Medical diagnosis systems, sign language recognition, big data applications}
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+% RELEVANT EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Relevant Experience}
+
+\begin{itemize}[leftmargin=*,label={}]
+  \resumeSubheading
+    {Graduate Research Assistant --- Quantum \& AI Research}{Fall 2025 -- Present}
+    {Rochester Institute of Technology, AI Hub}{Rochester, NY}
+    \resumeItem{Support faculty-led quantum and AI research through \textbf{experiment infrastructure, validation workflows, and reproducible evaluation pipelines} for quantum multi-armed bandit and routing projects}
+    \resumeItem{Build and maintain \textbf{multi-testbed evaluation framework} (Python: pandas, NumPy, scikit-learn) for benchmarking bandit-based routing methods across stochastic and adversarial threat scenarios}
+    \resumeItem{Develop \textbf{rerunnable research workflows} across Colab, local, and GCP environments with shared datasets, validated logs, and documentation ensuring traceable, reproducible results}
+    \resumeItem{Design \textbf{data quality validation checks} and batch review workflows to catch completion, labeling, and integrity issues before results are reported}
+    \resumeItem{Transform experiment outputs into \textbf{benchmark analyses, technical reports, and manuscript-ready evidence} for faculty-led publications}
+
+  \vspace{4pt}
+  \resumeSubheading
+    {Graduate Researcher --- Equitable Bioinformatics \& Fair ML}{2024 -- Present}
+    {RIT Data Science \& Bioinformatics Programs (ISTE-780, BIOL-630)}{Rochester, NY}
+    \resumeItem{Developed \textbf{end-to-end ML pipelines} for healthcare analytics: data preprocessing, feature engineering, model training (logistic regression, decision trees, random forests, XGBoost), evaluation, and fairness assessment}
+    \resumeItem{Implemented \textbf{RNA secondary structure prediction} with MFE enhancements, thermodynamic modeling (Turner parameters), and ViennaRNA integration, achieving $>$90\% accuracy on benchmark datasets}
+    \resumeItem{Built \textbf{fairness-aware evaluation framework} using disparate impact analysis and AI Fairness 360; achieved statistically significant bias detection ($p < 0.01$) across demographic subgroups}
+    \resumeItem{Produced \textbf{modular, documented Python codebases} (900+ lines) enabling reproducible algorithm evaluation and high-throughput feature extraction across multi-omics datasets}
+
+  \vspace{4pt}
+  \resumeSubheading
+    {Data Solutions Engineer}{Sep 2022 -- Aug 2024}
+    {VEDADATA Inc.}{New York, NY}
+    \resumeItem{Designed and implemented \textbf{production data pipelines} using Python, pandas, and cloud technologies for scalable enterprise data processing}
+    \resumeItem{Developed \textbf{automated data cleaning and validation workflows} ensuring quality, consistency, and auditability across systems}
+    \resumeItem{Delivered \textbf{maintainable, well-documented solutions} in cross-functional teams with emphasis on reproducibility and handoff clarity}
+
+  \vspace{4pt}
+  \resumeSubheading
+    {AI Data Solutions Engineer}{Jan 2021 -- Sep 2022}
+    {VIOME Inc.}{New York, NY}
+    \resumeItem{Contributed to \textbf{AI-driven healthcare data solutions} using supervised ML for personalized health recommendations}
+    \resumeItem{Implemented \textbf{data quality assurance} and model evaluation workflows ensuring reliable, interpretable production outputs}
+    \resumeItem{Worked across full ML lifecycle: \textbf{preprocessing, feature engineering, model training, and deployment} for production AI systems}
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS & GITHUB
+%----------------------------------------------------------------------------------------
+
+\section{Selected Projects}
+
+\textbf{Threat-Aware Quantum Routing Evaluation} $|$ Python, pandas, scikit-learn, GCP \\
+Multi-testbed evaluation framework for quantum entanglement routing using contextual bandits. Implements reproducible pipelines with comprehensive validation, data quality checks, and benchmark analysis across adversarial and stochastic threat scenarios. \\
+\textit{Repo:} Active research project --- code samples and technical summary available upon request
+
+\vspace{4pt}
+\textbf{Equitable Bioinformatics: RNA \& Biomarker Fairness Pipeline} $|$ Python, ViennaRNA, pandas, scikit-learn \\
+Fairness-aware bioinformatics pipeline integrating RNA structure prediction, multi-omics biomarker analysis, and supervised ML. Implements the EQUITAS framework for bias detection in diagnostic decision-making tools. \\
+\textit{Repo:} \href{https://github.com/pzg8794}{github.com/pzg8794} --- portfolio and documentation available
+
+\vspace{4pt}
+\textbf{Hospital Readmission Prediction} $|$ Python, scikit-learn, pandas, statistical modeling \\
+End-to-end ML pipeline using UCI diabetic readmission dataset. Includes EDA, feature engineering, and model comparison (logistic regression, decision trees, random forests) with full evaluation reporting. \\
+\textit{Repo:} \href{https://github.com/pzg8794}{github.com/pzg8794} --- available in portfolio
+
+%----------------------------------------------------------------------------------------
+% ADDITIONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+\section{Additional Information}
+
+\textbf{Availability:} Full-time summer 2026; continuation into fall 2026 (20 hrs/week or as needed); potentially beyond fall 2026 \\
+\textbf{Status:} MS Data Science graduation Aug 2026; PhD in Computing \& Information Sciences applicant (RIT, fall 2026) \\
+\textbf{Research Focus:} Fair AI, equitable diagnostics, reproducible research pipelines, data quality, quantum-AI evaluation \\
+\textbf{Awards:} NSF Robert Noyce Scholar (2024--2026); RIT International Merit Scholarship (2012--2015) \\
+\textbf{Languages:} English (native); Spanish (native/fluent)
+
+\vspace{8pt}
+\small{\textit{References, detailed project writeups, code samples, and full portfolio available upon request.}}
+
+\end{document}
