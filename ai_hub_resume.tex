@@ -1,0 +1,84 @@
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage[margin=0.35in]{geometry}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{parskip}
+
+\setlength{\parskip}{1pt}
+\setlength{\parindent}{0pt}
+\setlist[itemize]{leftmargin=*, itemsep=1pt, topsep=1pt}
+
+\definecolor{accent}{RGB}{0,100,180}
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{4pt}{2pt}
+
+\newcommand{\entry}[4]{
+  \textbf{#1} \hfill #2 \\
+  \textit{#3} \hfill \textit{#4}
+}
+
+\begin{document}
+\small
+
+\begin{center}
+{\LARGE \textbf{Piter Z. Garcia Bautista}}\\[4pt]
+Rochester, NY \quad | \quad (646) 288-3300 \quad | \quad \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu}\\
+\href{mailto:pitergarcia@rochester.edu}{pitergarcia@rochester.edu} \quad | \quad \href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz} \quad | \quad \href{https://garciapiterz.com}{garciapiterz.com}
+\end{center}
+
+\section{Summary}
+RIT M.S. Data Science student and Graduate Assistant supporting faculty-led quantum and AI research with experience in Python, pandas, scikit-learn, data cleaning, exploratory analysis, supervised machine learning, and reproducible evaluation. Seeking summer 2026 applied AI and data science work with fall continuation.
+
+\section{Education}
+\entry{Rochester Institute of Technology}{Expected Dec 2026}{Master of Science in Data Science}{Rochester, NY}
+\begin{itemize}
+    \item GPA: 3.9+; coursework in Foundations of Data Science and Analytics, Software Engineering for Data Science, Applied Data Science I, Neural Networks, Bioinformatics Algorithms, and Data-Driven Knowledge Discovery
+\end{itemize}
+
+\entry{University of Rochester}{Expected Sep 2026}{Master of Science in Teaching Computer Science K-12}{Rochester, NY}
+\begin{itemize}
+    \item Advanced Certificate in Leadership in Disability and Inclusive Practices
+\end{itemize}
+
+\entry{Rochester Institute of Technology}{2015}{Master of Science in Computer Science}{Rochester, NY}
+
+\section{Research Experience}
+\entry{Graduate Assistant - Quantum \& AI Research}{Fall 2025 -- Present}{Rochester Institute of Technology}{Rochester, NY}
+\begin{itemize}
+    \item Build and maintain Python-based evaluation workflows for quantum entanglement routing and qubit allocation across local, Colab, and GCP environments.
+    \item Consolidate experiment outputs into validated logs and master datasets; write quality checks that catch completion, labeling, and data-integrity issues before reporting.
+    \item Produce reproducible analyses, shared research tooling, and benchmark summaries that let collaborators rerun tests and compare results across stochastic and adversarial scenarios.
+\end{itemize}
+
+\section{Industry Experience}
+\entry{Data Solutions Engineer}{Sep 2022 -- Aug 2024}{VEDADATA Inc.}{New York, NY}
+\begin{itemize}
+    \item Built Python and pandas workflows for data cleaning, transformation, reporting, and cloud-based analytics delivery in production-facing environments.
+\end{itemize}
+
+\entry{AI Data Solutions Engineer}{Jan 2021 -- Sep 2022}{VIOME Inc.}{New York, NY}
+\begin{itemize}
+    \item Supported AI-driven healthcare data solutions and predictive modeling workflows across data preparation, implementation, and evaluation tasks.
+\end{itemize}
+
+\section{Selected Projects}
+\entry{Hospital Readmission Prediction}{2024}{RIT Data Science Project}{Python, pandas, scikit-learn}
+\begin{itemize}
+    \item Built a predictive workflow on a 10-year hospital readmission dataset from 130 U.S. hospitals using data cleaning, missing-value analysis, preprocessing, feature scaling, EDA, SMOTE, and scikit-learn model comparison across Logistic Regression, SVM, Decision Tree, and Random Forest baselines.
+\end{itemize}
+
+\entry{Threat-Aware Evaluation of Quantum Entanglement Routing and Qubit Allocation via Hybrid Contextual Bandits}{2025 -- Present}{RIT research project}{Python, experiment tooling, reproducibility}
+\begin{itemize}
+    \item Helped integrate benchmark quantum-network testbeds into a shared evaluation pipeline for rerunnable experiments, validated logs, comparative testing, and publication-ready reporting under stochastic and adversarial conditions.
+\end{itemize}
+
+\section{Technical Skills}
+\textbf{Languages:} Python, SQL, R, Java, C\#, MATLAB \\
+\textbf{Data Science:} pandas, scikit-learn, NumPy, Matplotlib, Seaborn, data cleaning, EDA, feature engineering, supervised learning, class-imbalance handling, statistical modeling \\
+\textbf{Tools:} Jupyter, Google Colab, Git, Linux, GCP, AWS, experiment validation, technical documentation, reproducible research workflows
+
+\end{document}
