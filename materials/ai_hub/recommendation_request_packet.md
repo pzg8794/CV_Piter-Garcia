@@ -98,24 +98,30 @@ Piter
 - Strong optional recommender for machine learning, fairness-aware modeling, and project execution.
 - Can speak to research maturity and the ability to connect technical methods to real questions.
 
-**What she should emphasize**
+**What he should emphasize**
 - You can take a broad problem and turn it into a structured analytical workflow.
 - You work seriously with Python, ML ideas, fairness, and evaluation.
 - You are not just conceptual; you implement and document.
 
 **Email draft**
 
-**Subject:** Request for brief support for my AI Hub application
+**Subject:** A quick update and one request
 
 Hello Dr. Yu,
 
-I am applying to the RIT AI Hub summer/fall co-op role in applied AI and data science, and I wanted to ask whether you would be comfortable supporting my application with a brief note or recommendation if you feel I am a strong fit.
+I hope you are doing well. First, I wanted to thank you again for your guidance and support, especially the patience and understanding you showed toward my medical condition. That made it much easier for me to keep learning and it encouraged me to continue developing the work I started in your class.
 
-The role centers on Python, data cleaning, exploratory analysis, supervised machine learning, and reproducible evaluation. I think the work I have done with you is relevant because it shows how I approach machine learning questions carefully, translate them into structured workflows, and connect technical choices to meaningful evaluation.
+I wanted to share a quick update. I am now teaching elementary students while finishing my degree work at the University of Rochester this summer, continuing my Graduate Assistant research in Quantum and AI for a second semester, and beginning to develop part of what I see as my broader dissertation direction through my DSCI 601 paper, currently titled “Fairness-Aware Decision-Making in Quantum Routing and Clinical Settings via Multi-Armed, Contextual, and Informative Bandit Methods.”
 
-I attached the targeted resume I am using for the role. If you are comfortable supporting it, I would be very grateful.
+A big reason I feel able to push in that direction is the foundation I built in your ISTE 780 work, especially around fairness-aware bioinformatics and the idea that predictive performance, fairness, and real-world impact should be treated together rather than separately. I want to keep expanding that part of my work by combining it with what I am learning in my current GA research and ongoing work and papers, and I see the RIT AI Hub opportunity as a strong way to deepen the AI side of that path while also growing the fairness component as my methods become stronger.
 
-Best,  
+I recently applied to that AI Hub summer/fall opportunity in applied AI and data science. If you would feel comfortable serving as a reference for me for that opportunity, I would be very grateful. I would also be happy to share the resume I submitted for the role.
+
+Lastly, as this DSCI 601 paper develops, would you be open to offering advice or feedback as it develops, whether informally or more formally? Your class is one of the clearest reasons I now see this work as part of a longer dissertation direction, and I would value your perspective as it grows.
+
+Thank you again for your support and for everything I learned in your class.
+
+Best,
 Piter
 
 ### Dr. Fernando Rodriguez
