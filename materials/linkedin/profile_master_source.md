@@ -23,6 +23,12 @@ Piter Z. Garcia Bautista
 ### Public URL
 `linkedin.com/in/garciapiterz`
 
+### Research identifiers and profile links
+- ORCID: https://orcid.org/0009-0008-5129-2820
+- ResearchGate: https://www.researchgate.net/profile/Piter-Zacari-Garcia-Bautista
+- GitHub: https://github.com/pzg8794
+- Website: https://garciapiterz.com
+
 ### Location
 Rochester, New York, United States
 
@@ -211,9 +217,11 @@ I support faculty-led quantum and AI research focused on threat-aware entangleme
 Keep this very small and high-signal.
 
 ### Recommended Featured items
-1. [CV_Piter_Garcia_2026.pdf](/Users/pitergarcia/Library/CloudStorage/GoogleDrive-garciapiterz@gmail.com/.shortcut-targets-by-id/1pY_fQ54nHKvFABNRGYAr5bQ3su_tUDAi/DataScience/Semester5/Scholarship/CV_Piter_Garcia_2026.pdf)
+1. [Piter_Garcia-Resume.pdf](/Users/pitergarcia/DataScience/Semester5/Scholarship/CV_Piter-Garcia/Piter_Garcia-Resume.pdf)
 2. `garciapiterz.com`
-3. [Revised Project Proposal - DSCI.601.01 - Applied Data Science I.pdf](/Users/pitergarcia/Library/CloudStorage/GoogleDrive-garciapiterz@gmail.com/.shortcut-targets-by-id/1pY_fQ54nHKvFABNRGYAr5bQ3su_tUDAi/DataScience/Semester5/DSCI601/Revised%20Project%20Proposal%20-%20DSCI.601.01%20-%20Applied%20Data%20Science%20I.pdf)
+3. `https://orcid.org/0009-0008-5129-2820`
+4. `https://www.researchgate.net/profile/Piter-Zacari-Garcia-Bautista`
+5. [Revised Project Proposal - DSCI.601.01 - Applied Data Science I.pdf](/Users/pitergarcia/Library/CloudStorage/GoogleDrive-garciapiterz@gmail.com/.shortcut-targets-by-id/1pY_fQ54nHKvFABNRGYAr5bQ3su_tUDAi/DataScience/Semester5/DSCI601/Revised%20Project%20Proposal%20-%20DSCI.601.01%20-%20Applied%20Data%20Science%20I.pdf)
 
 ### Optional future Featured item
 - Public-safe one-page overview of the quantum/AI research hub
