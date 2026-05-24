@@ -5,6 +5,7 @@ This repo now serves as the organized home for resume, CV, LinkedIn, and opportu
 ## Structure
 
 ### Root resume sources
+- `resume.tex`: current PhD / applied AI research resume source with public profile links
 - `main.tex`: existing general academic/research CV source
 - `main2.tex`: alternate resume/CV variant
 - `main3.tex`: scholarship/leadership-oriented variant

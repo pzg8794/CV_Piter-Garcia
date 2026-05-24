@@ -1,3 +1,7 @@
 *.aux
 *.log
 *.out
+*.fdb_latexmk
+*.fls
+*.xdv
+resume.pdf
