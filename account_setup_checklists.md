@@ -9,7 +9,7 @@ Owner: Piter Zacari Garcia Bautista
 - [x] ResearchGate core profile completed with dual-institution representation
 - [x] OpenReview core profile completed with dual-domain history
 - [ ] Google Scholar fully completed with verified publications only
-- [ ] Semantic Scholar fully completed and profile metadata aligned
+- [x] Semantic Scholar core setup completed and metadata aligned
 
 ## 2) Platform Checklists
 
@@ -48,8 +48,8 @@ Owner: Piter Zacari Garcia Bautista
 - [x] Signup method selection attempted (Google, Institution, and Email)
 - [x] Auth handoff attempts executed for all available methods in-session
 - [x] Google -> RIT SSO credential screen reached
-- [ ] Account creation completed
-- [ ] Initial profile metadata aligned with ORCID/ResearchGate/OpenReview
+- [x] Account creation/sign-in completed
+- [x] Initial profile metadata aligned with ORCID/ResearchGate/OpenReview
 
 ## 3) Timestamp Log
 
@@ -63,6 +63,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-24 | Session-log | Google Scholar | Manual title searches attempted in article mode; no verified exact claim selected | In progress (manual-safe blocker) |
 | 2026-05-24 | Session-log | Semantic Scholar | Google/Institution/Email handoff attempted; no completable credential screen appeared | In progress (auth handoff blocker) |
 | 2026-05-24 | Session-log | Auth gateway | Google sign-in advanced to RIT SSO login screen for pzg8794@g.rit.edu | Credential checkpoint reached |
+| 2026-05-24 | Session-log | Semantic Scholar | Signed in and saved account information (name + academic website) | Completed (core) |
 
 ## 4) Standard Evidence Rule
 

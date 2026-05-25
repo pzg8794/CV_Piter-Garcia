@@ -11,8 +11,8 @@ Maintained by: Copilot session workflow
 | ORCID | Completed | https://orcid.org/my-orcid?orcid=0009-0008-5129-2820 | Core profile already established earlier in session history. |
 | ResearchGate | Completed (core) | https://www.researchgate.net/profile/Piter-Zacari-Garcia-Bautista | Verified badge shown on profile; dual institution + education entries complete. |
 | OpenReview | Completed (core) | https://openreview.net/profile?id=~Piter_Zacari_Garcia_Bautista1 | Profile edited with dual institutional history and expertise. |
-| Google Scholar | In progress (manual claim attempted; secure login checkpoint reached) | https://scholar.google.com/citations?view_op=new_profile&hl=en | Exact-title searches returned no safe matches; external auth advanced to RIT SSO login screen for account continuation. |
-| Semantic Scholar | In progress (auth handoff partially unblocked) | https://www.semanticscholar.org/ | Signup modal opened and terms accepted; auth routing now reaches Google -> RIT SSO login screen, pending credential entry. |
+| Google Scholar | In progress (blocked on verified article claim) | https://scholar.google.com/citations?view_op=new_profile&hl=en | Exact-title searches from CV entries returned no matches; no safe claim available yet without misattribution risk. |
+| Semantic Scholar | Completed (core) | https://www.semanticscholar.org/ | Account access confirmed; settings updated and saved (name + academic website + role baseline). |
 
 ## 2) Information Applied To Profiles
 
@@ -86,22 +86,21 @@ Recommended next action:
 
 ### Semantic Scholar
 Current state:
-- New account flow initiated from homepage
-- "Join Semantic Scholar" modal reached
-- Terms/privacy acceptance checked to enable signup methods
-- Signup method selection attempted (Google, Institution, and Email)
-- Auth path now progresses to Google sign-in and then RIT SSO login screen
-- Completion pending secure credential entry (username/password and possible MFA)
+- Account access confirmed (signed-in session active)
+- Account settings page reached (`/me/account/manage`)
+- Name fields updated to match profile identity:
+  - Given name: Piter Zacari
+  - Family name: Garcia Bautista
+- Academic website set to: https://garciapiterz.com/
+- Save confirmed by in-app "Successfully saved!" banner
 
 Recommended next action:
-- Complete secure RIT login checkpoint, then return to Semantic Scholar and finalize account creation
-- After sign-in, populate profile metadata to match ORCID/ResearchGate/OpenReview identity
+- Optional: tune contact and alert preferences
 
 ## 5) Next Account Queue
 
 1. Google Scholar (finish safely with verified publications only)
-2. Semantic Scholar (complete signup + profile metadata)
-3. Any additional account the user opens next (to be appended here)
+2. Any additional account the user opens next (to be appended here)
 
 ## 6) Change Log
 
@@ -113,3 +112,4 @@ Recommended next action:
 - 2026-05-24: Google Scholar advanced to manual article-search mode; no verified exact matches selected.
 - 2026-05-24: Semantic Scholar signup methods tested (Google/Institution/Email); auth handoff remained blocked in-session.
 - 2026-05-24: Google auth advanced to RIT SSO login page (credential checkpoint reached).
+- 2026-05-24: Semantic Scholar sign-in succeeded and account settings were saved successfully.
