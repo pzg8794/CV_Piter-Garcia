@@ -85,10 +85,18 @@ Current state:
   - MAB Adversarial Implementation Test Framework -> no match
   - Integration Plan: Sheeraja's UDRM into Quantum Path Optimization -> no match
 - Additional name-based search was attempted (`Piter Zacari Garcia Bautista`) but returned unrelated author-name collisions
+- Canonical quantum artifact titles were extracted from `pzg8794/RESEARCH` (`MASTER_RESEARCH_INDEX.md` + `TODO_PHD_RESEARCH.md`) and used for strict matching:
+  - `qRL_Reinforcement_Learning_Routing_for_Quantum_Entanglement_Networks.pdf`
+  - `MAB-Adversarial_Implementation-Test_Framework.pdf`
+  - `Integration Plan: Sheeraja's UDRM into Quantum Path Optimization`
+- Additional canonical filename/title-variant searches were attempted in Scholar and returned no safe self-authored claim
+- RESEARCH index provides canonical filenames/titles but does not include DOI/arXiv/publisher identifiers
+- Local Google Drive mounted scan did not surface those canonical PDFs/IDs in accessible synced files
 - Safe completion is pending a trustworthy set of claimed publications
 
 Recommended next action:
 - Continue only with manual, verified publication claiming to avoid misattribution
+- Pull DOI/arXiv/publisher URLs directly from canonical PDFs in Drive and retry targeted Scholar claims
 
 ### Semantic Scholar
 Current state:
@@ -141,3 +149,4 @@ Recommended next action:
 - 2026-05-24: Academia.edu name normalized from `Piter Zacari Z GARCIA BAUTISTA` to `Piter Zacari GARCIA BAUTISTA`.
 - 2026-05-24: Academia.edu email notification warning resolved using in-account re-enable action.
 - 2026-05-24: Google Scholar step 2 continued with strict safe-claim policy; qRL hit rejected (different authors), additional exact/name queries produced no safe claim.
+- 2026-05-24: Canonical publication titles sourced from RESEARCH index and retested in Scholar; no DOI/arXiv identifiers available yet for safe claim completion.
