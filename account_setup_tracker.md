@@ -110,6 +110,7 @@ Current state:
   - `"Big Data Medical Diagnosis" "Piter Garcia" 2014` -> no match
   - `"MAB-Adversarial_Implementation-Test_Framework"` -> no match
   - `"Quantum entanglement path selection and qubit allocation via adversarial group neural bandits"` -> external authors (`Y Huang, L Wang, J Xu`), rejected
+- Wizard constraint observed: current Scholar onboarding step exposes search-based selection only; no visible `Add article manually` action in-session
 - Doc also labels `qRL_Reinforcement_Learning_Routing_for_Quantum_Entanglement_Networks.pdf` as external/reference, so it remains excluded from self-claiming
 - Safe completion is pending a trustworthy set of claimed publications
 
@@ -173,3 +174,4 @@ Recommended next action:
 - 2026-05-25: EXPNeuralUCB/quantum query produced one title-level hit, but authors were external (`Y Huang, L Wang, J Xu`), so claim was rejected.
 - 2026-05-25: Broad `"Piter Garcia"` Scholar sweep returned ambiguous author collisions and unrelated works; no safe claim selected.
 - 2026-05-25: Citation metadata extracted directly from top Drive artifacts (HTSA Phase2, Big Data Paper3, MAB framework) and used for one more targeted Scholar pass; still no safe self-authored claim available.
+- 2026-05-25: Checked Scholar onboarding UI for manual article entry path; only search-based claiming was visible in this state.

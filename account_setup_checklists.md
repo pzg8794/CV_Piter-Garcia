@@ -88,6 +88,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-25 | Session-log | Google Scholar | Query `"EXPNeuralUCB" quantum entanglement` returned one title-level match, but authors were `Y Huang, L Wang, J Xu`; rejected to prevent misattribution | In progress (safe-claim blocker) |
 | 2026-05-25 | Session-log | Google Scholar | Broad author query `"Piter Garcia"` produced ambiguous/collision results (e.g., `P Garcia Rios`, `P García`) and unrelated topics; no safe claim selected | In progress (safe-claim blocker) |
 | 2026-05-25 | Session-log | Drive + Google Scholar | Extracted first-page metadata from HTSA Phase2, Big Data Paper3, and MAB framework files, then retried metadata-informed exact queries (title+author/year/arXiv); still no safe self-authored claim candidate | In progress (safe-claim blocker) |
+| 2026-05-25 | Session-log | Google Scholar | Checked onboarding UI for manual entry path; no visible `Add article manually` action at current wizard step (search-based selection only) | In progress (workflow constraint) |
 
 ## 4) Standard Evidence Rule
 
