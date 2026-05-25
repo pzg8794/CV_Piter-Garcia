@@ -60,7 +60,7 @@ Owner: Piter Zacari Garcia Bautista
 - [x] Bio updated with research themes and ORCID
 - [x] Supervisors added
 - [x] LinkedIn social link added/confirmed
-- [ ] Email issue banner resolved in account settings
+- [x] Email issue banner resolved in account settings
 
 ## 3) Timestamp Log
 
@@ -78,6 +78,8 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-24 | Session-log | Google Scholar | Exact-title verification attempts using RESEARCH repo canonical artifacts completed; one non-self-authored hit rejected and no safe claims selected | In progress (safe-claim blocker) |
 | 2026-05-24 | Session-log | Academia.edu | Profile edited and saved with dual affiliation, bio, supervisors, and LinkedIn | Completed (core) |
 | 2026-05-24 | Session-log | Academia.edu | Name normalized to `Piter Zacari GARCIA BAUTISTA` after duplicate middle marker review | Completed (core refinement) |
+| 2026-05-24 | Session-log | Academia.edu | Email warning cleared from account settings via re-enable email action | Completed (warning resolved) |
+| 2026-05-24 | Session-log | Google Scholar | Step 2 continuation run: name-based and canonical-title searches rechecked; only non-self-authored/irrelevant results found | In progress (safe-claim blocker) |
 
 ## 4) Standard Evidence Rule
 

@@ -84,6 +84,7 @@ Current state:
   - qRL Reinforcement Learning Routing for Quantum Entanglement Networks -> one hit found, but authored by different researchers
   - MAB Adversarial Implementation Test Framework -> no match
   - Integration Plan: Sheeraja's UDRM into Quantum Path Optimization -> no match
+- Additional name-based search was attempted (`Piter Zacari Garcia Bautista`) but returned unrelated author-name collisions
 - Safe completion is pending a trustworthy set of claimed publications
 
 Recommended next action:
@@ -114,16 +115,15 @@ Current state:
 - LinkedIn social profile added/confirmed
 
 Noted issue:
-- Platform banner indicates an email-address issue for `pzg8794@g.rit.edu` and suggests checking notification settings
+- Previously flagged email opt-out warning for `pzg8794@g.rit.edu` was resolved via Email Notifications re-enable flow
 
 Recommended next action:
-- Visit Academia settings email page and clear/verify email notification issue
+- Optional: keep notifications tuned to preference (issue no longer blocking)
 
 ## 5) Next Account Queue
 
 1. Google Scholar (finish safely with verified publications only)
-2. Academia.edu email/notification verification check
-3. Any additional account the user opens next (to be appended here)
+2. Any additional account the user opens next (to be appended here)
 
 ## 6) Change Log
 
@@ -139,3 +139,5 @@ Recommended next action:
 - 2026-05-24: Google Scholar exact-title checks run using RESEARCH repo canonical artifact names; no safe claim selected.
 - 2026-05-24: Academia.edu profile updated with dual affiliation, bio, supervisors, and LinkedIn.
 - 2026-05-24: Academia.edu name normalized from `Piter Zacari Z GARCIA BAUTISTA` to `Piter Zacari GARCIA BAUTISTA`.
+- 2026-05-24: Academia.edu email notification warning resolved using in-account re-enable action.
+- 2026-05-24: Google Scholar step 2 continued with strict safe-claim policy; qRL hit rejected (different authors), additional exact/name queries produced no safe claim.
