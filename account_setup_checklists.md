@@ -12,6 +12,7 @@ Owner: Piter Zacari Garcia Bautista
 - [x] Semantic Scholar core setup completed and metadata aligned
 - [x] Academia.edu core profile completed and aligned
 - [x] LinkedIn core profile refined and aligned
+- [ ] GitHub profile and pinned repositories curated for PhD-facing narrative
 
 ## 2) Platform Checklists
 
@@ -73,6 +74,13 @@ Owner: Piter Zacari Garcia Bautista
 - [x] Public profile URL preserved (`garciapiterz`)
 - [ ] Optional headline/About deep polish for application-specific wording
 
+### GitHub
+- [x] Public profile discovered and reviewed (`pzg8794`)
+- [x] Candidate pinned-repository plan prepared
+- [ ] Authenticated settings access available in shared browser context
+- [ ] Bio/website/profile links updated to current research narrative
+- [ ] Pinned repositories updated to current research portfolio
+
 ## 3) Timestamp Log
 
 | Date | Time (local) | Platform | Action | Result |
@@ -99,6 +107,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-25 | Session-log | Google Scholar | Checked onboarding UI for manual entry path; no visible `Add article manually` action at current wizard step (search-based selection only) | In progress (workflow constraint) |
 | 2026-05-25 | Session-log | Google Scholar | User confirmed no published papers are available yet and requested to move on; Scholar claim workflow deferred | Deferred by request |
 | 2026-05-25 | Session-log | LinkedIn | Intro edit saved; first/last name normalized to `Piter Zacari Garcia Bautista` for cross-platform identity consistency | Completed (core refinement) |
+| 2026-05-25 | Session-log | GitHub | Public profile audited and pin/bio plan prepared; settings/profile endpoint currently redirects to sign-in in this browser context | In progress (auth blocker) |
 
 ## 4) Standard Evidence Rule
 
