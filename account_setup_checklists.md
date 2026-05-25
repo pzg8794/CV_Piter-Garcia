@@ -12,7 +12,7 @@ Owner: Piter Zacari Garcia Bautista
 - [x] Semantic Scholar core setup completed and metadata aligned
 - [x] Academia.edu core profile completed and aligned
 - [x] LinkedIn core profile refined and aligned
-- [ ] GitHub profile and pinned repositories curated for PhD-facing narrative
+- [x] GitHub profile and pinned repositories curated for PhD-facing narrative
 
 ## 2) Platform Checklists
 
@@ -77,9 +77,9 @@ Owner: Piter Zacari Garcia Bautista
 ### GitHub
 - [x] Public profile discovered and reviewed (`pzg8794`)
 - [x] Candidate pinned-repository plan prepared
-- [ ] Authenticated settings access available in shared browser context
-- [ ] Bio/website/profile links updated to current research narrative
-- [ ] Pinned repositories updated to current research portfolio
+- [x] Authenticated settings access available in shared browser context
+- [x] Bio/website/profile links updated to current research narrative
+- [x] Pinned repositories updated to current research portfolio
 
 ## 3) Timestamp Log
 
@@ -108,6 +108,8 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-25 | Session-log | Google Scholar | User confirmed no published papers are available yet and requested to move on; Scholar claim workflow deferred | Deferred by request |
 | 2026-05-25 | Session-log | LinkedIn | Intro edit saved; first/last name normalized to `Piter Zacari Garcia Bautista` for cross-platform identity consistency | Completed (core refinement) |
 | 2026-05-25 | Session-log | GitHub | Public profile audited and pin/bio plan prepared; settings/profile endpoint currently redirects to sign-in in this browser context | In progress (auth blocker) |
+| 2026-05-25 | Session-log | GitHub | Signed-in settings edit completed; profile metadata and links saved; pinned repos updated to `CV_Piter-Garcia`, `quantum_project_hub`, `QuantumFaultTolerant`, and `RESEARCH` | Completed (core curation) |
+| 2026-05-25 | Session-log | Repository docs | `quantum_project_hub/README.md` upgraded and pushed to `pzg8794/quantum_project_hub`; nested external testbed README pushes blocked by upstream permissions | Partial (owned push complete, external blocked) |
 
 ## 4) Standard Evidence Rule
 

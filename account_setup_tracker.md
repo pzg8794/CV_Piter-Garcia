@@ -15,7 +15,7 @@ Maintained by: Copilot session workflow
 | Semantic Scholar | Completed (core) | https://www.semanticscholar.org/ | Account access confirmed; settings updated and saved (name + academic website + role baseline). |
 | Academia.edu | Completed (core) | https://rit.academia.edu/garciapiter | Existing account accessed; profile identity, dual affiliation, bio, supervisors, and LinkedIn link updated. |
 | LinkedIn | Completed (core refinement) | https://www.linkedin.com/in/garciapiterz/ | Authenticated profile accessed; intro name normalized to full form for cross-platform consistency. |
-| GitHub | In progress (blocked on authenticated settings access) | https://github.com/pzg8794 | Public profile reviewed; edit endpoints currently redirect to sign-in in this browser context. |
+| GitHub | Completed (core curation) | https://github.com/pzg8794 | Profile metadata updated, links aligned, and pinned repositories curated to current research portfolio. |
 
 ## 2) Information Applied To Profiles
 
@@ -163,24 +163,30 @@ Recommended next action:
 
 ### GitHub
 Current state:
-- Public profile is reachable (`pzg8794`)
-- Current public bio appears outdated for PhD-facing narrative
-- Popular repositories shown publicly are legacy/non-representative for current research focus
-- Settings/Profile edit endpoint (`/settings/profile`) redirects to sign-in in current browser context
+- Authenticated settings access confirmed and profile saved
+- Name aligned to `Piter Zacari Garcia Bautista`
+- Bio updated to current research identity (quantum networking, fairness-aware AI, bioinformatics)
+- Website and social links aligned (`garciapiterz.com`, LinkedIn, ORCID)
+- Pinned repositories curated to application-facing set currently available in pin selector:
+  - `CV_Piter-Garcia`
+  - `quantum_project_hub`
+  - `QuantumFaultTolerant`
+  - `RESEARCH`
 
-Prepared next-step plan (ready once signed in):
-- Update bio to current research identity (quantum networking, fairness-aware AI, bioinformatics)
-- Keep website and LinkedIn links aligned with other profiles
-- Curate pinned repositories toward current work (e.g., `quantum_project_hub`, `quantum_project`, `GA-Work`, `QuantumFaultTolerant`, plus one strongest methods/code repo)
+Documentation hardening pass (repo-level):
+- `pzg8794/quantum_project_hub`: README upgraded and pushed (`main`)
+- Nested external testbed repos updated locally but push blocked by remote permissions:
+  - `junaid572/RL_Entanglement_Routing`
+  - `iCMAB/CMAB-CoMM`
 
 Recommended next action:
-- Complete GitHub sign-in in shared browser context, then apply the prepared profile and pinning changes in one pass
+- Optional: continue documentation upgrades in additional owned repositories (`GA-Work`, `quantum_project`, `QuantumFaultTolerant`) and push iteratively
 
 ## 5) Next Account Queue
 
-1. GitHub profile and pinned repositories curation for PhD-facing narrative (pending sign-in)
-2. Personal website profile audit (bio consistency, links to ORCID/ResearchGate/OpenReview)
-3. Optional publication-platform placeholders (Zenodo, Figshare) for future public outputs
+1. Personal website profile audit (bio consistency, links to ORCID/ResearchGate/OpenReview)
+2. Optional publication-platform placeholders (Zenodo, Figshare) for future public outputs
+3. Additional repository-by-repository documentation polishing in owned repos
 4. Return to Google Scholar only when a claimable publication record exists
 
 ## 6) Change Log
@@ -209,3 +215,4 @@ Recommended next action:
 - 2026-05-25: Added concrete next-profile priority queue to continue efficiently after Scholar deferral.
 - 2026-05-25: LinkedIn profile intro finalized; name normalized to `Piter Zacari Garcia Bautista` and saved.
 - 2026-05-25: GitHub wrap-up started; public profile audited and curation plan prepared, but settings edit path in this browser session requires sign-in.
+- 2026-05-25: GitHub profile finalized after sign-in (bio/links/pins), and documentation hardening pass initiated across accessible repositories.
