@@ -79,6 +79,10 @@ Current state:
 - Wizard advances to article-selection step but suggestions are unrelated
 - Manual article-search mode opened (Groups/Articles flow)
 - Verified-title searches were attempted from CV publication lines but returned unrelated/noisy matches
+- Additional exact-title searches were attempted using canonical artifact names from the RESEARCH repo index
+  - qRL Reinforcement Learning Routing for Quantum Entanglement Networks -> one hit found, but authored by different researchers
+  - MAB Adversarial Implementation Test Framework -> no match
+  - Integration Plan: Sheeraja's UDRM into Quantum Path Optimization -> no match
 - Safe completion is pending a trustworthy set of claimed publications
 
 Recommended next action:
@@ -113,3 +117,4 @@ Recommended next action:
 - 2026-05-24: Semantic Scholar signup methods tested (Google/Institution/Email); auth handoff remained blocked in-session.
 - 2026-05-24: Google auth advanced to RIT SSO login page (credential checkpoint reached).
 - 2026-05-24: Semantic Scholar sign-in succeeded and account settings were saved successfully.
+- 2026-05-24: Google Scholar exact-title checks run using RESEARCH repo canonical artifact names; no safe claim selected.

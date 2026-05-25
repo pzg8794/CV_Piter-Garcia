@@ -64,6 +64,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-24 | Session-log | Semantic Scholar | Google/Institution/Email handoff attempted; no completable credential screen appeared | In progress (auth handoff blocker) |
 | 2026-05-24 | Session-log | Auth gateway | Google sign-in advanced to RIT SSO login screen for pzg8794@g.rit.edu | Credential checkpoint reached |
 | 2026-05-24 | Session-log | Semantic Scholar | Signed in and saved account information (name + academic website) | Completed (core) |
+| 2026-05-24 | Session-log | Google Scholar | Exact-title verification attempts using RESEARCH repo canonical artifacts completed; one non-self-authored hit rejected and no safe claims selected | In progress (safe-claim blocker) |
 
 ## 4) Standard Evidence Rule
 
