@@ -101,6 +101,15 @@ Current state:
   - `Quantum entanglement path selection and qubit allocation via adversarial group neural bandits`
   - Authors shown in Scholar: `Y Huang, L Wang, J Xu` (not Piter) -> rejected as unsafe claim
 - Broad author-string query (`"Piter Garcia"`) returned mixed collisions (`P Garcia Rios`, `P García`, and unrelated topics), with no verified match to portfolio artifacts -> rejected as unsafe claim
+- Direct Drive artifact metadata extraction completed from source files:
+  - `HTSA_Paper-Phase2.docx` (44 pages): title page confirms `NGS Reanalysis Study on Global DEG Discovery in a DRG Mouse Dataset`, draft type, and contributors `Nikhi Boggavarapu`, `Sam Kopelev`, `Piter Garcia`
+  - `Big Data Medical Diagnosis - Paper3.pdf` (8 pages): title page confirms `Piter Garcia`, `May 13, 2014`, and Rochester Institute of Technology heading
+  - `MAB-Adversarial_Implementation-Test_Framework.pdf` (188 pages): title page confirms framework label/date and cites external reference paper `Huang, Y., Wang, L., & Xu, J. (2024), arXiv:2411.00316v1`
+- Metadata-informed Scholar retries still produced no safe claimable result:
+  - `"NGS Reanalysis Study on Global DEG Discovery in a DRG Mouse Dataset" "Piter Garcia"` -> no match
+  - `"Big Data Medical Diagnosis" "Piter Garcia" 2014` -> no match
+  - `"MAB-Adversarial_Implementation-Test_Framework"` -> no match
+  - `"Quantum entanglement path selection and qubit allocation via adversarial group neural bandits"` -> external authors (`Y Huang, L Wang, J Xu`), rejected
 - Doc also labels `qRL_Reinforcement_Learning_Routing_for_Quantum_Entanglement_Networks.pdf` as external/reference, so it remains excluded from self-claiming
 - Safe completion is pending a trustworthy set of claimed publications
 
@@ -163,3 +172,4 @@ Recommended next action:
 - 2026-05-25: User-provided MASTER_RESEARCH_INDEX Google Doc parsed for titles/links; Scholar checks repeated with doc-derived exact titles and still no safe claim selected.
 - 2026-05-25: EXPNeuralUCB/quantum query produced one title-level hit, but authors were external (`Y Huang, L Wang, J Xu`), so claim was rejected.
 - 2026-05-25: Broad `"Piter Garcia"` Scholar sweep returned ambiguous author collisions and unrelated works; no safe claim selected.
+- 2026-05-25: Citation metadata extracted directly from top Drive artifacts (HTSA Phase2, Big Data Paper3, MAB framework) and used for one more targeted Scholar pass; still no safe self-authored claim available.
