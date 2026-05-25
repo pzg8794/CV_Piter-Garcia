@@ -1,6 +1,6 @@
 # Account Setup Checklists and Timestamps
 
-Last updated: 2026-05-24
+Last updated: 2026-05-25
 Owner: Piter Zacari Garcia Bautista
 
 ## 1) Global Checklist
@@ -85,6 +85,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-24 | Session-log | Google Scholar | Step 2 continuation run: name-based and canonical-title searches rechecked; only non-self-authored/irrelevant results found | In progress (safe-claim blocker) |
 | 2026-05-24 | Session-log | Google Scholar | Canonical publication titles pulled from RESEARCH index and retried (title + filename variants); no safe claim and no DOI/arXiv IDs available in indexed sources | In progress (identifier blocker) |
 | 2026-05-25 | Session-log | Google Scholar | User-shared MASTER_RESEARCH_INDEX Google Doc parsed and queried (NGS reanalysis title, Big Data Medical Diagnosis, MAB framework variants); no safe self-authored claim candidate found | In progress (safe-claim blocker) |
+| 2026-05-25 | Session-log | Google Scholar | Query `"EXPNeuralUCB" quantum entanglement` returned one title-level match, but authors were `Y Huang, L Wang, J Xu`; rejected to prevent misattribution | In progress (safe-claim blocker) |
 
 ## 4) Standard Evidence Rule
 
