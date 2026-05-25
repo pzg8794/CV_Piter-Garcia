@@ -39,6 +39,7 @@ Owner: Piter Zacari Garcia Bautista
 - [x] Manual article-search mode enabled from article-selection flow
 - [x] Verified-title query attempts executed (no safe exact claim selected)
 - [x] Canonical title source extracted from RESEARCH master index for strict matching
+- [x] User-provided master index Google Doc parsed for exact titles and source links
 - [x] External account auth advanced to RIT SSO checkpoint
 - [ ] Article claim step completed using verified publications
 - [ ] DOI/arXiv/publisher identifiers collected from canonical PDFs for targeted claim
@@ -83,6 +84,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-24 | Session-log | Academia.edu | Email warning cleared from account settings via re-enable email action | Completed (warning resolved) |
 | 2026-05-24 | Session-log | Google Scholar | Step 2 continuation run: name-based and canonical-title searches rechecked; only non-self-authored/irrelevant results found | In progress (safe-claim blocker) |
 | 2026-05-24 | Session-log | Google Scholar | Canonical publication titles pulled from RESEARCH index and retried (title + filename variants); no safe claim and no DOI/arXiv IDs available in indexed sources | In progress (identifier blocker) |
+| 2026-05-25 | Session-log | Google Scholar | User-shared MASTER_RESEARCH_INDEX Google Doc parsed and queried (NGS reanalysis title, Big Data Medical Diagnosis, MAB framework variants); no safe self-authored claim candidate found | In progress (safe-claim blocker) |
 
 ## 4) Standard Evidence Rule
 

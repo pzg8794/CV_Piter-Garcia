@@ -92,6 +92,12 @@ Current state:
 - Additional canonical filename/title-variant searches were attempted in Scholar and returned no safe self-authored claim
 - RESEARCH index provides canonical filenames/titles but does not include DOI/arXiv/publisher identifiers
 - Local Google Drive mounted scan did not surface those canonical PDFs/IDs in accessible synced files
+- Google Doc source provided by user (`MASTER_RESEARCH_INDEX - PhD Applications`) was accessed and parsed in-session for exact paper titles and direct Drive links
+- Doc-based title searches run in Scholar:
+  - `NGS Reanalysis Study on Global DEG Discovery in a DRG Mouse Dataset` -> no match
+  - `Big Data Medical Diagnosis` -> only unrelated external results
+  - `MAB-Adversarial_Implementation-Test_Framework` (and spacing variants) -> no match
+- Doc also labels `qRL_Reinforcement_Learning_Routing_for_Quantum_Entanglement_Networks.pdf` as external/reference, so it remains excluded from self-claiming
 - Safe completion is pending a trustworthy set of claimed publications
 
 Recommended next action:
@@ -150,3 +156,4 @@ Recommended next action:
 - 2026-05-24: Academia.edu email notification warning resolved using in-account re-enable action.
 - 2026-05-24: Google Scholar step 2 continued with strict safe-claim policy; qRL hit rejected (different authors), additional exact/name queries produced no safe claim.
 - 2026-05-24: Canonical publication titles sourced from RESEARCH index and retested in Scholar; no DOI/arXiv identifiers available yet for safe claim completion.
+- 2026-05-25: User-provided MASTER_RESEARCH_INDEX Google Doc parsed for titles/links; Scholar checks repeated with doc-derived exact titles and still no safe claim selected.
