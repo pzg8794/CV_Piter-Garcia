@@ -223,3 +223,4 @@ Recommended next action:
 - 2026-05-25: GitHub profile finalized after sign-in (bio/links/pins), and documentation hardening pass initiated across accessible repositories.
 - 2026-05-25: Documentation pass extended and pushed across owned repos (`quantum_project_hub`, `QuantumFaultTolerant`, and `GA-Work` submodule pointer sync); `quantum_project` reconciled with upstream during non-fast-forward rebase.
 - 2026-05-25: Documentation second pass pushed for `QuantumFaultTolerant` (legacy/archive/checkpoint/figure README clarifications) with corresponding `GA-Work` submodule pointer update.
+- 2026-05-25: `pzg8794/RESEARCH` updated with `APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md` and linked from root docs to define which repos should stay public for applications.

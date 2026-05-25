@@ -115,6 +115,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-25 | Session-log | Repository docs | Reconciled `pzg8794/quantum_project` with upstream via rebase after non-fast-forward; no additional README diff remained to push | Completed (reconciled) |
 | 2026-05-25 | Session-log | Repository docs | Second-pass README clarification pushed in `pzg8794/QuantumFaultTolerant` (legacy drafts, tracking archive, early-feedback archive, pre-venue checkpoint, ICNP figure pack) | Completed |
 | 2026-05-25 | Session-log | Repository docs | `pzg8794/GA-Work` submodule pointer advanced again to latest `QuantumFaultTolerant` documentation commit and pushed to `main` | Completed |
+| 2026-05-25 | Session-log | Repository docs | Created `pzg8794/RESEARCH/APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md` and linked it in root/index docs to define application-facing public repos | Completed |
 
 ## 4) Standard Evidence Rule
 
