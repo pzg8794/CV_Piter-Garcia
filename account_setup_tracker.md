@@ -12,6 +12,7 @@ Maintained by: Copilot session workflow
 | ResearchGate | Completed (core) | https://www.researchgate.net/profile/Piter-Zacari-Garcia-Bautista | Verified badge shown on profile; dual institution + education entries complete. |
 | OpenReview | Completed (core) | https://openreview.net/profile?id=~Piter_Zacari_Garcia_Bautista1 | Profile edited with dual institutional history and expertise. |
 | Google Scholar | In progress (blocked on safe article claim) | https://scholar.google.com/citations?view_op=new_profile&hl=en | Onboarding step requires article selection; current suggestions are unrelated/noisy. |
+| Semantic Scholar | Started (signup in progress) | https://www.semanticscholar.org/ | Signup modal opened; terms accepted; account creation method selected but completion pending. |
 
 ## 2) Information Applied To Profiles
 
@@ -81,10 +82,22 @@ Current state:
 Recommended next action:
 - Continue only with manual, verified publication claiming to avoid misattribution
 
+### Semantic Scholar
+Current state:
+- New account flow initiated from homepage
+- "Join Semantic Scholar" modal reached
+- Terms/privacy acceptance checked to enable signup methods
+- Signup method selection attempted (Google and Email); final account creation still pending
+
+Recommended next action:
+- Complete signup via preferred method (Google or Email)
+- After sign-in, populate profile metadata to match ORCID/ResearchGate/OpenReview identity
+
 ## 5) Next Account Queue
 
 1. Google Scholar (finish safely with verified publications only)
-2. Any additional account the user opens next (to be appended here)
+2. Semantic Scholar (complete signup + profile metadata)
+3. Any additional account the user opens next (to be appended here)
 
 ## 6) Change Log
 
@@ -92,3 +105,4 @@ Recommended next action:
 - 2026-05-24: Logged ResearchGate completion state and UofR additions.
 - 2026-05-24: Logged OpenReview completion state and dual-domain conflict coverage.
 - 2026-05-24: Logged Google Scholar blocker (no safe article claims yet).
+- 2026-05-24: Started Semantic Scholar signup flow and logged current pending step.
