@@ -100,6 +100,7 @@ Current state:
 - Additional doc-derived technical query (`"EXPNeuralUCB" quantum entanglement`) surfaced a title-level match:
   - `Quantum entanglement path selection and qubit allocation via adversarial group neural bandits`
   - Authors shown in Scholar: `Y Huang, L Wang, J Xu` (not Piter) -> rejected as unsafe claim
+- Broad author-string query (`"Piter Garcia"`) returned mixed collisions (`P Garcia Rios`, `P García`, and unrelated topics), with no verified match to portfolio artifacts -> rejected as unsafe claim
 - Doc also labels `qRL_Reinforcement_Learning_Routing_for_Quantum_Entanglement_Networks.pdf` as external/reference, so it remains excluded from self-claiming
 - Safe completion is pending a trustworthy set of claimed publications
 
@@ -161,3 +162,4 @@ Recommended next action:
 - 2026-05-24: Canonical publication titles sourced from RESEARCH index and retested in Scholar; no DOI/arXiv identifiers available yet for safe claim completion.
 - 2026-05-25: User-provided MASTER_RESEARCH_INDEX Google Doc parsed for titles/links; Scholar checks repeated with doc-derived exact titles and still no safe claim selected.
 - 2026-05-25: EXPNeuralUCB/quantum query produced one title-level hit, but authors were external (`Y Huang, L Wang, J Xu`), so claim was rejected.
+- 2026-05-25: Broad `"Piter Garcia"` Scholar sweep returned ambiguous author collisions and unrelated works; no safe claim selected.
