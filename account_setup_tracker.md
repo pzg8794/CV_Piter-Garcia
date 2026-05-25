@@ -178,6 +178,8 @@ Documentation hardening pass (repo-level):
 - `pzg8794/QuantumFaultTolerant`: subdirectory README guidance upgraded and pushed (`main`)
 - `pzg8794/GA-Work`: superproject submodule pointers updated and pushed to include latest docs commits
 - `pzg8794/quantum_project`: remote already contains expanded framework README; local rebase conflict resolved with no additional diff to push
+- `pzg8794/QuantumFaultTolerant` (second pass): archive/checkpoint/figure README policies clarified and pushed (`main`)
+- `pzg8794/GA-Work` (second pass): QuantumFaultTolerant submodule pointer updated to latest documentation commit
 - Nested external testbed repos updated locally but push blocked by remote permissions:
   - `junaid572/RL_Entanglement_Routing`
   - `iCMAB/CMAB-CoMM`
@@ -220,3 +222,4 @@ Recommended next action:
 - 2026-05-25: GitHub wrap-up started; public profile audited and curation plan prepared, but settings edit path in this browser session requires sign-in.
 - 2026-05-25: GitHub profile finalized after sign-in (bio/links/pins), and documentation hardening pass initiated across accessible repositories.
 - 2026-05-25: Documentation pass extended and pushed across owned repos (`quantum_project_hub`, `QuantumFaultTolerant`, and `GA-Work` submodule pointer sync); `quantum_project` reconciled with upstream during non-fast-forward rebase.
+- 2026-05-25: Documentation second pass pushed for `QuantumFaultTolerant` (legacy/archive/checkpoint/figure README clarifications) with corresponding `GA-Work` submodule pointer update.
