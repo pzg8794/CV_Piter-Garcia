@@ -151,8 +151,11 @@ Recommended next action:
 
 ## 5) Next Account Queue
 
-1. Any additional account the user opens next (to be appended here)
-2. Return to Google Scholar only when a claimable publication record exists
+1. LinkedIn profile final alignment (headline/about/experience/research focus consistency)
+2. GitHub profile and pinned repositories curation for PhD-facing narrative
+3. Personal website profile audit (bio consistency, links to ORCID/ResearchGate/OpenReview)
+4. Optional publication-platform placeholders (Zenodo, Figshare) for future public outputs
+5. Return to Google Scholar only when a claimable publication record exists
 
 ## 6) Change Log
 
@@ -177,3 +180,4 @@ Recommended next action:
 - 2026-05-25: Citation metadata extracted directly from top Drive artifacts (HTSA Phase2, Big Data Paper3, MAB framework) and used for one more targeted Scholar pass; still no safe self-authored claim available.
 - 2026-05-25: Checked Scholar onboarding UI for manual article entry path; only search-based claiming was visible in this state.
 - 2026-05-25: User confirmed no published papers are available yet; Scholar claiming marked deferred by request.
+- 2026-05-25: Added concrete next-profile priority queue to continue efficiently after Scholar deferral.
