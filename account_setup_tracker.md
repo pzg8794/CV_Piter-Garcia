@@ -11,8 +11,8 @@ Maintained by: Copilot session workflow
 | ORCID | Completed | https://orcid.org/my-orcid?orcid=0009-0008-5129-2820 | Core profile already established earlier in session history. |
 | ResearchGate | Completed (core) | https://www.researchgate.net/profile/Piter-Zacari-Garcia-Bautista | Verified badge shown on profile; dual institution + education entries complete. |
 | OpenReview | Completed (core) | https://openreview.net/profile?id=~Piter_Zacari_Garcia_Bautista1 | Profile edited with dual institutional history and expertise. |
-| Google Scholar | In progress (blocked on safe article claim) | https://scholar.google.com/citations?view_op=new_profile&hl=en | Onboarding step requires article selection; current suggestions are unrelated/noisy. |
-| Semantic Scholar | Started (signup in progress) | https://www.semanticscholar.org/ | Signup modal opened; terms accepted; account creation method selected but completion pending. |
+| Google Scholar | In progress (manual claim attempted; still blocked) | https://scholar.google.com/citations?view_op=new_profile&hl=en | Reached article-selection step and switched to manual search mode; no verified exact matches selected. |
+| Semantic Scholar | In progress (auth handoff blocked in-session) | https://www.semanticscholar.org/ | Signup modal opened and terms accepted, but Google/Institution/Email methods did not advance to a completable credential form in this session. |
 
 ## 2) Information Applied To Profiles
 
@@ -77,6 +77,8 @@ Completed updates include:
 Current state:
 - Profile setup form (name/affiliation/interests/homepage) is populated
 - Wizard advances to article-selection step but suggestions are unrelated
+- Manual article-search mode opened (Groups/Articles flow)
+- Verified-title searches were attempted from CV publication lines but returned unrelated/noisy matches
 - Safe completion is pending a trustworthy set of claimed publications
 
 Recommended next action:
@@ -87,10 +89,11 @@ Current state:
 - New account flow initiated from homepage
 - "Join Semantic Scholar" modal reached
 - Terms/privacy acceptance checked to enable signup methods
-- Signup method selection attempted (Google and Email); final account creation still pending
+- Signup method selection attempted (Google, Institution, and Email)
+- In this browser session, auth handoff did not advance to a credential-entry page we could complete
 
 Recommended next action:
-- Complete signup via preferred method (Google or Email)
+- Retry signup in a fresh auth window and complete with preferred method (Google or Email)
 - After sign-in, populate profile metadata to match ORCID/ResearchGate/OpenReview identity
 
 ## 5) Next Account Queue
@@ -106,3 +109,5 @@ Recommended next action:
 - 2026-05-24: Logged OpenReview completion state and dual-domain conflict coverage.
 - 2026-05-24: Logged Google Scholar blocker (no safe article claims yet).
 - 2026-05-24: Started Semantic Scholar signup flow and logged current pending step.
+- 2026-05-24: Google Scholar advanced to manual article-search mode; no verified exact matches selected.
+- 2026-05-24: Semantic Scholar signup methods tested (Google/Institution/Email); auth handoff remained blocked in-session.
