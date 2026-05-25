@@ -11,7 +11,7 @@ Maintained by: Copilot session workflow
 | ORCID | Completed | https://orcid.org/my-orcid?orcid=0009-0008-5129-2820 | Core profile already established earlier in session history. |
 | ResearchGate | Completed (core) | https://www.researchgate.net/profile/Piter-Zacari-Garcia-Bautista | Verified badge shown on profile; dual institution + education entries complete. |
 | OpenReview | Completed (core) | https://openreview.net/profile?id=~Piter_Zacari_Garcia_Bautista1 | Profile edited with dual institutional history and expertise. |
-| Google Scholar | In progress (blocked on verified article claim) | https://scholar.google.com/citations?view_op=new_profile&hl=en | Exact-title searches from CV entries returned no matches; no safe claim available yet without misattribution risk. |
+| Google Scholar | Deferred by user (no published papers yet) | https://scholar.google.com/citations?view_op=new_profile&hl=en | User confirmed no published papers to claim at this stage; article-claim step intentionally skipped for now. |
 | Semantic Scholar | Completed (core) | https://www.semanticscholar.org/ | Account access confirmed; settings updated and saved (name + academic website + role baseline). |
 | Academia.edu | Completed (core) | https://rit.academia.edu/garciapiter | Existing account accessed; profile identity, dual affiliation, bio, supervisors, and LinkedIn link updated. |
 
@@ -112,11 +112,12 @@ Current state:
   - `"Quantum entanglement path selection and qubit allocation via adversarial group neural bandits"` -> external authors (`Y Huang, L Wang, J Xu`), rejected
 - Wizard constraint observed: current Scholar onboarding step exposes search-based selection only; no visible `Add article manually` action in-session
 - Doc also labels `qRL_Reinforcement_Learning_Routing_for_Quantum_Entanglement_Networks.pdf` as external/reference, so it remains excluded from self-claiming
-- Safe completion is pending a trustworthy set of claimed publications
+- User confirmed no published papers are available to claim right now
+- Scholar publication-claim completion is intentionally deferred to a future cycle
 
 Recommended next action:
-- Continue only with manual, verified publication claiming to avoid misattribution
-- Pull DOI/arXiv/publisher URLs directly from canonical PDFs in Drive and retry targeted Scholar claims
+- Defer Scholar article-claiming until at least one publication is publicly indexed or otherwise claimable
+- Continue wrapping up remaining platform/profile tasks outside Scholar claiming
 
 ### Semantic Scholar
 Current state:
@@ -150,8 +151,8 @@ Recommended next action:
 
 ## 5) Next Account Queue
 
-1. Google Scholar (finish safely with verified publications only)
-2. Any additional account the user opens next (to be appended here)
+1. Any additional account the user opens next (to be appended here)
+2. Return to Google Scholar only when a claimable publication record exists
 
 ## 6) Change Log
 
@@ -175,3 +176,4 @@ Recommended next action:
 - 2026-05-25: Broad `"Piter Garcia"` Scholar sweep returned ambiguous author collisions and unrelated works; no safe claim selected.
 - 2026-05-25: Citation metadata extracted directly from top Drive artifacts (HTSA Phase2, Big Data Paper3, MAB framework) and used for one more targeted Scholar pass; still no safe self-authored claim available.
 - 2026-05-25: Checked Scholar onboarding UI for manual article entry path; only search-based claiming was visible in this state.
+- 2026-05-25: User confirmed no published papers are available yet; Scholar claiming marked deferred by request.

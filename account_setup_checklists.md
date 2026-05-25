@@ -8,7 +8,7 @@ Owner: Piter Zacari Garcia Bautista
 - [x] ORCID profile exists and is linked in portfolio materials
 - [x] ResearchGate core profile completed with dual-institution representation
 - [x] OpenReview core profile completed with dual-domain history
-- [ ] Google Scholar fully completed with verified publications only
+- [x] Google Scholar deferred by user (no published papers yet)
 - [x] Semantic Scholar core setup completed and metadata aligned
 - [x] Academia.edu core profile completed and aligned
 
@@ -41,8 +41,8 @@ Owner: Piter Zacari Garcia Bautista
 - [x] Canonical title source extracted from RESEARCH master index for strict matching
 - [x] User-provided master index Google Doc parsed for exact titles and source links
 - [x] External account auth advanced to RIT SSO checkpoint
-- [ ] Article claim step completed using verified publications
-- [ ] DOI/arXiv/publisher identifiers collected from canonical PDFs for targeted claim
+- [x] Article-claim step deferred by user confirmation (no published papers yet)
+- [x] DOI/arXiv/publisher identifier pass attempted from canonical files; no claimable indexed records found
 - [ ] Public profile visibility and alert settings reviewed
 
 ### Semantic Scholar
@@ -89,6 +89,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-25 | Session-log | Google Scholar | Broad author query `"Piter Garcia"` produced ambiguous/collision results (e.g., `P Garcia Rios`, `P García`) and unrelated topics; no safe claim selected | In progress (safe-claim blocker) |
 | 2026-05-25 | Session-log | Drive + Google Scholar | Extracted first-page metadata from HTSA Phase2, Big Data Paper3, and MAB framework files, then retried metadata-informed exact queries (title+author/year/arXiv); still no safe self-authored claim candidate | In progress (safe-claim blocker) |
 | 2026-05-25 | Session-log | Google Scholar | Checked onboarding UI for manual entry path; no visible `Add article manually` action at current wizard step (search-based selection only) | In progress (workflow constraint) |
+| 2026-05-25 | Session-log | Google Scholar | User confirmed no published papers are available yet and requested to move on; Scholar claim workflow deferred | Deferred by request |
 
 ## 4) Standard Evidence Rule
 
