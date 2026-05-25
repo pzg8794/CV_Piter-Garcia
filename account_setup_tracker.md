@@ -13,6 +13,7 @@ Maintained by: Copilot session workflow
 | OpenReview | Completed (core) | https://openreview.net/profile?id=~Piter_Zacari_Garcia_Bautista1 | Profile edited with dual institutional history and expertise. |
 | Google Scholar | In progress (blocked on verified article claim) | https://scholar.google.com/citations?view_op=new_profile&hl=en | Exact-title searches from CV entries returned no matches; no safe claim available yet without misattribution risk. |
 | Semantic Scholar | Completed (core) | https://www.semanticscholar.org/ | Account access confirmed; settings updated and saved (name + academic website + role baseline). |
+| Academia.edu | Completed (core) | https://rit.academia.edu/garciapiter | Existing account accessed; profile identity, dual affiliation, bio, supervisors, and LinkedIn link updated. |
 
 ## 2) Information Applied To Profiles
 
@@ -101,10 +102,28 @@ Current state:
 Recommended next action:
 - Optional: tune contact and alert preferences
 
+### Academia.edu
+Current state:
+- Existing signed-in account discovered and profile edit page accessed
+- Name updated to align with cross-platform identity (`Piter Zacari Z GARCIA BAUTISTA`)
+- Added dual affiliation on profile:
+  - Rochester Institute of Technology, Computer Science, Graduate Assistant
+  - University of Rochester, Warner School of Education, Graduate Student
+- Added/updated profile bio with research themes and ORCID link
+- Added supervisors: Dr. Daniel Krutz and Dr. Travis Desell
+- LinkedIn social profile added/confirmed
+
+Noted issue:
+- Platform banner indicates an email-address issue for `pzg8794@g.rit.edu` and suggests checking notification settings
+
+Recommended next action:
+- Visit Academia settings email page and clear/verify email notification issue
+
 ## 5) Next Account Queue
 
 1. Google Scholar (finish safely with verified publications only)
-2. Any additional account the user opens next (to be appended here)
+2. Academia.edu email/notification verification check
+3. Any additional account the user opens next (to be appended here)
 
 ## 6) Change Log
 
@@ -118,3 +137,4 @@ Recommended next action:
 - 2026-05-24: Google auth advanced to RIT SSO login page (credential checkpoint reached).
 - 2026-05-24: Semantic Scholar sign-in succeeded and account settings were saved successfully.
 - 2026-05-24: Google Scholar exact-title checks run using RESEARCH repo canonical artifact names; no safe claim selected.
+- 2026-05-24: Academia.edu profile updated with dual affiliation, bio, supervisors, and LinkedIn.

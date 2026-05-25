@@ -10,6 +10,7 @@ Owner: Piter Zacari Garcia Bautista
 - [x] OpenReview core profile completed with dual-domain history
 - [ ] Google Scholar fully completed with verified publications only
 - [x] Semantic Scholar core setup completed and metadata aligned
+- [x] Academia.edu core profile completed and aligned
 
 ## 2) Platform Checklists
 
@@ -51,6 +52,15 @@ Owner: Piter Zacari Garcia Bautista
 - [x] Account creation/sign-in completed
 - [x] Initial profile metadata aligned with ORCID/ResearchGate/OpenReview
 
+### Academia.edu
+- [x] Account access/sign-in confirmed
+- [x] Name aligned with profile identity
+- [x] Dual affiliation represented (RIT + UofR Warner)
+- [x] Bio updated with research themes and ORCID
+- [x] Supervisors added
+- [x] LinkedIn social link added/confirmed
+- [ ] Email issue banner resolved in account settings
+
 ## 3) Timestamp Log
 
 | Date | Time (local) | Platform | Action | Result |
@@ -65,6 +75,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-24 | Session-log | Auth gateway | Google sign-in advanced to RIT SSO login screen for pzg8794@g.rit.edu | Credential checkpoint reached |
 | 2026-05-24 | Session-log | Semantic Scholar | Signed in and saved account information (name + academic website) | Completed (core) |
 | 2026-05-24 | Session-log | Google Scholar | Exact-title verification attempts using RESEARCH repo canonical artifacts completed; one non-self-authored hit rejected and no safe claims selected | In progress (safe-claim blocker) |
+| 2026-05-24 | Session-log | Academia.edu | Profile edited and saved with dual affiliation, bio, supervisors, and LinkedIn | Completed (core) |
 
 ## 4) Standard Evidence Rule
 
