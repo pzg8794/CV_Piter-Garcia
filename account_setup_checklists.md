@@ -110,6 +110,9 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-25 | Session-log | GitHub | Public profile audited and pin/bio plan prepared; settings/profile endpoint currently redirects to sign-in in this browser context | In progress (auth blocker) |
 | 2026-05-25 | Session-log | GitHub | Signed-in settings edit completed; profile metadata and links saved; pinned repos updated to `CV_Piter-Garcia`, `quantum_project_hub`, `QuantumFaultTolerant`, and `RESEARCH` | Completed (core curation) |
 | 2026-05-25 | Session-log | Repository docs | `quantum_project_hub/README.md` upgraded and pushed to `pzg8794/quantum_project_hub`; nested external testbed README pushes blocked by upstream permissions | Partial (owned push complete, external blocked) |
+| 2026-05-25 | Session-log | Repository docs | Expanded subdirectory README guidance in `pzg8794/QuantumFaultTolerant` and pushed to `main` | Completed |
+| 2026-05-25 | Session-log | Repository docs | Updated `pzg8794/GA-Work` superproject submodule pointers to latest `quantum_project_hub` and `QuantumFaultTolerant` documentation commits; pushed to `main` | Completed |
+| 2026-05-25 | Session-log | Repository docs | Reconciled `pzg8794/quantum_project` with upstream via rebase after non-fast-forward; no additional README diff remained to push | Completed (reconciled) |
 
 ## 4) Standard Evidence Rule
 
