@@ -11,6 +11,7 @@ Owner: Piter Zacari Garcia Bautista
 - [x] Google Scholar deferred by user (no published papers yet)
 - [x] Semantic Scholar core setup completed and metadata aligned
 - [x] Academia.edu core profile completed and aligned
+- [x] LinkedIn core profile refined and aligned
 
 ## 2) Platform Checklists
 
@@ -65,6 +66,13 @@ Owner: Piter Zacari Garcia Bautista
 - [x] LinkedIn social link added/confirmed
 - [x] Email issue banner resolved in account settings
 
+### LinkedIn
+- [x] Authenticated profile session confirmed
+- [x] Intro editor accessed and saved
+- [x] Name aligned to full identity (`Piter Zacari Garcia Bautista`)
+- [x] Public profile URL preserved (`garciapiterz`)
+- [ ] Optional headline/About deep polish for application-specific wording
+
 ## 3) Timestamp Log
 
 | Date | Time (local) | Platform | Action | Result |
@@ -90,6 +98,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-25 | Session-log | Drive + Google Scholar | Extracted first-page metadata from HTSA Phase2, Big Data Paper3, and MAB framework files, then retried metadata-informed exact queries (title+author/year/arXiv); still no safe self-authored claim candidate | In progress (safe-claim blocker) |
 | 2026-05-25 | Session-log | Google Scholar | Checked onboarding UI for manual entry path; no visible `Add article manually` action at current wizard step (search-based selection only) | In progress (workflow constraint) |
 | 2026-05-25 | Session-log | Google Scholar | User confirmed no published papers are available yet and requested to move on; Scholar claim workflow deferred | Deferred by request |
+| 2026-05-25 | Session-log | LinkedIn | Intro edit saved; first/last name normalized to `Piter Zacari Garcia Bautista` for cross-platform identity consistency | Completed (core refinement) |
 
 ## 4) Standard Evidence Rule
 

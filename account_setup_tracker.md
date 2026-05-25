@@ -14,6 +14,7 @@ Maintained by: Copilot session workflow
 | Google Scholar | Deferred by user (no published papers yet) | https://scholar.google.com/citations?view_op=new_profile&hl=en | User confirmed no published papers to claim at this stage; article-claim step intentionally skipped for now. |
 | Semantic Scholar | Completed (core) | https://www.semanticscholar.org/ | Account access confirmed; settings updated and saved (name + academic website + role baseline). |
 | Academia.edu | Completed (core) | https://rit.academia.edu/garciapiter | Existing account accessed; profile identity, dual affiliation, bio, supervisors, and LinkedIn link updated. |
+| LinkedIn | Completed (core refinement) | https://www.linkedin.com/in/garciapiterz/ | Authenticated profile accessed; intro name normalized to full form for cross-platform consistency. |
 
 ## 2) Information Applied To Profiles
 
@@ -149,13 +150,22 @@ Noted issue:
 Recommended next action:
 - Optional: keep notifications tuned to preference (issue no longer blocking)
 
+### LinkedIn
+Current state:
+- Authenticated profile session confirmed
+- Intro editor opened and saved successfully
+- Name normalized from `Piter Garcia` to `Piter Zacari Garcia Bautista`
+- Public profile URL retained as `garciapiterz`
+
+Recommended next action:
+- Optional: refine headline/About text only if needed for application-specific wording
+
 ## 5) Next Account Queue
 
-1. LinkedIn profile final alignment (headline/about/experience/research focus consistency)
-2. GitHub profile and pinned repositories curation for PhD-facing narrative
-3. Personal website profile audit (bio consistency, links to ORCID/ResearchGate/OpenReview)
-4. Optional publication-platform placeholders (Zenodo, Figshare) for future public outputs
-5. Return to Google Scholar only when a claimable publication record exists
+1. GitHub profile and pinned repositories curation for PhD-facing narrative
+2. Personal website profile audit (bio consistency, links to ORCID/ResearchGate/OpenReview)
+3. Optional publication-platform placeholders (Zenodo, Figshare) for future public outputs
+4. Return to Google Scholar only when a claimable publication record exists
 
 ## 6) Change Log
 
@@ -181,3 +191,4 @@ Recommended next action:
 - 2026-05-25: Checked Scholar onboarding UI for manual article entry path; only search-based claiming was visible in this state.
 - 2026-05-25: User confirmed no published papers are available yet; Scholar claiming marked deferred by request.
 - 2026-05-25: Added concrete next-profile priority queue to continue efficiently after Scholar deferral.
+- 2026-05-25: LinkedIn profile intro finalized; name normalized to `Piter Zacari Garcia Bautista` and saved.
