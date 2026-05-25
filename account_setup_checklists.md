@@ -37,6 +37,7 @@ Owner: Piter Zacari Garcia Bautista
 - [x] Interests constrained to platform limit
 - [x] Manual article-search mode enabled from article-selection flow
 - [x] Verified-title query attempts executed (no safe exact claim selected)
+- [x] External account auth advanced to RIT SSO checkpoint
 - [ ] Article claim step completed using verified publications
 - [ ] Public profile visibility and alert settings reviewed
 
@@ -46,6 +47,7 @@ Owner: Piter Zacari Garcia Bautista
 - [x] Terms accepted to enable signup methods
 - [x] Signup method selection attempted (Google, Institution, and Email)
 - [x] Auth handoff attempts executed for all available methods in-session
+- [x] Google -> RIT SSO credential screen reached
 - [ ] Account creation completed
 - [ ] Initial profile metadata aligned with ORCID/ResearchGate/OpenReview
 
@@ -60,6 +62,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-24 | Session-log | Semantic Scholar | Signup modal reached; terms accepted; methods attempted | Started (completion pending) |
 | 2026-05-24 | Session-log | Google Scholar | Manual title searches attempted in article mode; no verified exact claim selected | In progress (manual-safe blocker) |
 | 2026-05-24 | Session-log | Semantic Scholar | Google/Institution/Email handoff attempted; no completable credential screen appeared | In progress (auth handoff blocker) |
+| 2026-05-24 | Session-log | Auth gateway | Google sign-in advanced to RIT SSO login screen for pzg8794@g.rit.edu | Credential checkpoint reached |
 
 ## 4) Standard Evidence Rule
 
