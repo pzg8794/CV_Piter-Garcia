@@ -55,6 +55,7 @@ Owner: Piter Zacari Garcia Bautista
 ### Academia.edu
 - [x] Account access/sign-in confirmed
 - [x] Name aligned with profile identity
+- [x] Duplicate middle marker removed (kept `Zacari`, removed middle initial `Z`)
 - [x] Dual affiliation represented (RIT + UofR Warner)
 - [x] Bio updated with research themes and ORCID
 - [x] Supervisors added
@@ -76,6 +77,7 @@ Owner: Piter Zacari Garcia Bautista
 | 2026-05-24 | Session-log | Semantic Scholar | Signed in and saved account information (name + academic website) | Completed (core) |
 | 2026-05-24 | Session-log | Google Scholar | Exact-title verification attempts using RESEARCH repo canonical artifacts completed; one non-self-authored hit rejected and no safe claims selected | In progress (safe-claim blocker) |
 | 2026-05-24 | Session-log | Academia.edu | Profile edited and saved with dual affiliation, bio, supervisors, and LinkedIn | Completed (core) |
+| 2026-05-24 | Session-log | Academia.edu | Name normalized to `Piter Zacari GARCIA BAUTISTA` after duplicate middle marker review | Completed (core refinement) |
 
 ## 4) Standard Evidence Rule
 

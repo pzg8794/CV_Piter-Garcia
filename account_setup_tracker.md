@@ -105,7 +105,7 @@ Recommended next action:
 ### Academia.edu
 Current state:
 - Existing signed-in account discovered and profile edit page accessed
-- Name updated to align with cross-platform identity (`Piter Zacari Z GARCIA BAUTISTA`)
+- Name normalized to remove duplicate middle marker and align identity as `Piter Zacari GARCIA BAUTISTA`
 - Added dual affiliation on profile:
   - Rochester Institute of Technology, Computer Science, Graduate Assistant
   - University of Rochester, Warner School of Education, Graduate Student
@@ -138,3 +138,4 @@ Recommended next action:
 - 2026-05-24: Semantic Scholar sign-in succeeded and account settings were saved successfully.
 - 2026-05-24: Google Scholar exact-title checks run using RESEARCH repo canonical artifact names; no safe claim selected.
 - 2026-05-24: Academia.edu profile updated with dual affiliation, bio, supervisors, and LinkedIn.
+- 2026-05-24: Academia.edu name normalized from `Piter Zacari Z GARCIA BAUTISTA` to `Piter Zacari GARCIA BAUTISTA`.
